@@ -1,0 +1,33 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "mean stack angular application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dshall/mean-stack-angular-app.git"
+  },
+  "keywords": [
+    "mean",
+    "stack",
+    "app",
+    "with",
+    "angular"
+  ],
+  "author": "darion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dshall/mean-stack-angular-app/issues"
+  },
+  "homepage": "https://github.com/dshall/mean-stack-angular-app#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.1"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.4.7"
+  }
+}
